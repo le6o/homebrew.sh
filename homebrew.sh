@@ -8,7 +8,6 @@ brew upgrade
 formulas=(
   bash-completion
   git
-  git-flow
   php56
   composer
 )
