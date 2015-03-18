@@ -11,6 +11,7 @@ formulas=(
   homebrew/php/php56
   homebrew/php/php56-mcrypt
   homebrew/php/composer
+  node
   caskroom/cask/brew-cask
 )
 
