@@ -9,6 +9,7 @@ formulas=(
   bash-completion
   git
   homebrew/php/php56
+  homebrew/php/php56-mcrypt
   homebrew/php/composer
   caskroom/cask/brew-cask
 )
