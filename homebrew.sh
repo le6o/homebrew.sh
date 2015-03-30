@@ -23,6 +23,7 @@ casks=(
   dropbox
   google-chrome
   slack
+  spectacle
   sublime-text3
   vagrant
   virtualbox
