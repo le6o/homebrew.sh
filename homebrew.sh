@@ -8,8 +8,8 @@ brew upgrade
 formulas=(
   bash-completion
   git
-  homebrew/php/php56
-  homebrew/php/php56-mcrypt
+  homebrew/php/php70
+  homebrew/php/php70-mcrypt
   homebrew/php/composer
   node
   caskroom/cask/brew-cask
